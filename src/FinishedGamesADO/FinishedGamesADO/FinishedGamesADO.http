@@ -1,0 +1,6 @@
+@FinishedGamesADO_HostAddress = http://localhost:5255
+
+GET {{FinishedGamesADO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
